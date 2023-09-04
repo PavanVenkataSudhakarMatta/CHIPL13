@@ -1,2 +1,0 @@
-ssh-keygen
-Get-Content ~/.ssh/id_rsa.pub
